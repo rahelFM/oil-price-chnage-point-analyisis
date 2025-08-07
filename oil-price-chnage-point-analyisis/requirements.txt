@@ -1,0 +1,9 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scipy==1.13.1
+pymc3==3.11.5
+arviz==0.18.0
+theano-pymc==1.1.2
+jupyterlab==4.1.8
